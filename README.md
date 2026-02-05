@@ -6,7 +6,7 @@ Automação inteligente para escrita e envio de redações, com interface modern
 
 ## 🚀 Sobre o projeto
 
-O **Redação Bot 4.0** é um aplicativo desenvolvido em Python que automatiza o processo de escrita de redações em qualquer editor ou site, utilizando automação de teclado e mouse.
+O **Redação Bot 4.2** é um aplicativo desenvolvido em Python que automatiza o processo de escrita de redações em qualquer editor ou site, utilizando automação de teclado e mouse.
 
 Esta versão marca a evolução do projeto de um simples script para um **aplicativo completo**, com foco em usabilidade, segurança e controle do fluxo de automação.
 
