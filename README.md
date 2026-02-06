@@ -94,7 +94,8 @@ Perfis diferentes de escrita
 Este projeto está sob a licença MIT.
 Sinta-se livre para usar, modificar e distribuir.
 
-##**❤️ Autor**##
+##**❤️ Autor
+JpStar06
 
 Projeto feito com Python, automação e curiosidade.
 
