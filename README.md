@@ -46,7 +46,7 @@ cd seu-repositorio
 ```
 ---
 
-##**📖 Como usar**##
+## **📖 Como usar**
 
 **1️⃣Abra o aplicativo e digite ou cole o texto no campo de redação.**
 
