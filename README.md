@@ -67,21 +67,23 @@ Alternar de janela (Alt + Tab)
 Clicar no local selecionado
 Digitar todo o texto automaticamente
 
-##**⚠️ Avisos importantes**##
+## **⚠️ Avisos importantes**
 
 Não mexa no mouse ou teclado enquanto o bot estiver escrevendo
 Se a resolução da tela mudar, selecione o local novamente
 Textos grandes podem levar alguns segundos para concluir
 Use com responsabilidade
 
-##**🧠 Detalhes técnicos**##
+## **🧠 Detalhes técnicos**
 
 A digitação é feita com pyautogui.write()
 Intervalo entre teclas configurado em 0.01
 Coordenadas capturadas em pixels reais da tela
 Interface acompanha o tema do sistema (claro/escuro)
 
-##**💡 Possíveis melhorias futuras**##
+---
+
+## **💡 Possíveis melhorias futuras**
 
 Ajuste manual da velocidade de digitação
 Salvamento automático das coordenadas
@@ -89,13 +91,12 @@ Conversão para executável (.exe)
 Versão mobile / Android
 Perfis diferentes de escrita
 
-##**📄 Licença**##
+## **📄 Licença**
 
 Este projeto está sob a licença MIT.
 Sinta-se livre para usar, modificar e distribuir.
 
-##**❤️ Autor
-
+## **❤️ Autor:
 JpStar06
 
 Projeto feito com Python, automação e curiosidade.
